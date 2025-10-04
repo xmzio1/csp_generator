@@ -1,0 +1,5 @@
+{
+    "policy_type": "strict",
+    "allow_inline": true,
+    "allow_eval": false
+}
